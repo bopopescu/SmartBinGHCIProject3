@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hnt_et_location">Enter location</string>
+     <string name="app_name">Smartbin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dashb">Dashboard</string>
+    <string name="Export">Export</string>
+    <string name="plock">Password Lock</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="gg">Generate Graph</string>
+    <string name="loc"/>
+    <string name="str_btn_find">Find</string>
+    <string name="rg">Register Bin</string>
+    <string name="city">Enter the City</string>
+    <string name="email">Enter the email id</string>
+    <string name="submit">Submit</string>
+    <string name="settings">Settings</string>
+    
+</resources>

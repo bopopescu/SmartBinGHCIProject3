@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.smartbin007.MainActivity" >
+
+    <item
+        android:id="@+id/set"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/settings" 
+        android:menuCategory="system" />		
+            
+    <item
+        android:id="@+id/dashboard"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/rg" 
+        android:menuCategory="system"/>										
+        
+    <item
+        android:id="@+id/Export"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/Export" 
+        android:menuCategory="system"/>
+    
+    <item
+        android:id="@+id/plock"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/plock" 
+        android:menuCategory="system"/>
+
+</menu>
